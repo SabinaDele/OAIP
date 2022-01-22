@@ -1,0 +1,4 @@
+﻿  laba6.cpp
+D:\БГУИР\OAIP_labs\Project6\Project6\laba6.cpp(6,9): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\БГУИР\OAIP_labs\Project6\Project6\laba6.cpp(17,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Project6.vcxproj -> D:\БГУИР\OAIP_labs\Project6\Debug\Project6.exe
