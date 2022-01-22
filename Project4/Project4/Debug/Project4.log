@@ -1,0 +1,7 @@
+﻿  laba 4.cpp
+D:\БГУИР\OAIP_labs\Project4\Project4\laba 4.cpp(16,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+D:\БГУИР\OAIP_labs\Project4\Project4\laba 4.cpp(27,14): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\БГУИР\OAIP_labs\Project4\Project4\laba 4.cpp(54,8): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+D:\БГУИР\OAIP_labs\Project4\Project4\laba 4.cpp(55,8): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+D:\БГУИР\OAIP_labs\Project4\Project4\laba 4.cpp(64,13): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Project4.vcxproj -> D:\БГУИР\OAIP_labs\Project4\Debug\Project4.exe
